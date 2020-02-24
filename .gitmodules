@@ -1,0 +1,3 @@
+[submodule "OpenGLHabr/vendor/GLFW"]
+	path = OpenGLHabr/vendor/GLFW
+	url = https://github.com/TheCherno/GLFW
